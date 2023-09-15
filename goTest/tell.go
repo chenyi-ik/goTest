@@ -1,3 +1,3 @@
 package gotest
 
-const Version = 1.11
+const Aersion = 1.11
